@@ -1,0 +1,1260 @@
+fileFormatVersion: 2
+guid: 04a7ae6d151f6ab4595a00df7fe37da2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2622115664642244112
+    second: keyboard1
+  - first:
+      213: -3452836243451150782
+    second: paper1
+  - first:
+      213: 4730650979843495222
+    second: paper2
+  - first:
+      213: 385690464775291710
+    second: paper3
+  - first:
+      213: -4822067493779672716
+    second: paper6
+  - first:
+      213: 266029745534930613
+    second: papergroup1
+  - first:
+      213: -8257606118464439082
+    second: paper4
+  - first:
+      213: -4126187412246704212
+    second: paper5
+  - first:
+      213: -1887645933938000209
+    second: mouse
+  - first:
+      213: 2525718455636352679
+    second: papergroup2
+  - first:
+      213: 3344487698848384178
+    second: trashbin1
+  - first:
+      213: -3783867135271580113
+    second: glassShatter1_1
+  - first:
+      213: -1518798328321406866
+    second: glassShatter1_2
+  - first:
+      213: 6080636218917323001
+    second: glassShatter1_3
+  - first:
+      213: -7949883857692709272
+    second: metalTray1
+  - first:
+      213: -340439768700001591
+    second: metalParts1
+  - first:
+      213: 5843298923955892438
+    second: Docter_back
+  - first:
+      213: 5266664484372111994
+    second: PropAtlas_17
+  - first:
+      213: 6830166017350960066
+    second: Wooden_door_L
+  - first:
+      213: 6929055186514689351
+    second: Wooden_door_R
+  - first:
+      213: 5305848464970721420
+    second: Iron_door_L
+  - first:
+      213: -8812051992333634548
+    second: Iron_door_R
+  - first:
+      213: -6196045438146311405
+    second: Blue_Iron_door_L
+  - first:
+      213: -6068062256185435153
+    second: BlueIron_door_L
+  - first:
+      213: 2032935407870339808
+    second: White_Iron_door_L
+  - first:
+      213: 46569095728585280
+    second: White_Iron_door_R
+  - first:
+      213: -5027965936077084579
+    second: White_Iron_door_2_L
+  - first:
+      213: -6999480123994662129
+    second: White_Iron_door_2_R
+  - first:
+      213: 8667900845265975776
+    second: Weaphon_line_L
+  - first:
+      213: 3140491915283282371
+    second: Weaphon_line_R
+  - first:
+      213: 4865902951464457941
+    second: Assult_Rifle
+  - first:
+      213: 2426568987111306346
+    second: SMG
+  - first:
+      213: 4474609638381842153
+    second: Shotgun
+  - first:
+      213: 7294396447581438609
+    second: namepad1
+  - first:
+      213: -124018450962547664
+    second: namepad2
+  - first:
+      213: -1376454470775985001
+    second: namepad3
+  - first:
+      213: -3196320349727178809
+    second: Passwordpad
+  - first:
+      213: -4370513569440349742
+    second: namepad4
+  - first:
+      213: 1161890760119456630
+    second: namepad5
+  - first:
+      213: -1422576614906445316
+    second: Weaphon_line
+  - first:
+      213: 680741064264625445
+    second: AmmoBox_Red
+  - first:
+      213: -6155359950847535375
+    second: AmmoBox_Blue
+  - first:
+      213: -6507714796774737622
+    second: Amor_stand
+  - first:
+      213: 5184339920226903058
+    second: AWP
+  - first:
+      213: -678549363391504217
+    second: warnning_door
+  - first:
+      213: -244864510164375402
+    second: pliceLine1
+  - first:
+      213: 147908021948094837
+    second: pliceLine2
+  - first:
+      213: -1870005239527483067
+    second: pliceLine3
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: keyboard1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1019
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01efcfeed40a36420800000000000000
+      internalID: 2622115664642244112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper1
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1018
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24eff710bbf0510d0800000000000000
+      internalID: -3452836243451150782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper2
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1018
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 635dce98006a6a140800000000000000
+      internalID: 4730650979843495222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1018
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e33cf2a2f6f3a5500800000000000000
+      internalID: 385690464775291710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper6
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 1020
+        width: 3
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 471fd4ea923941db0800000000000000
+      internalID: -4822067493779672716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papergroup1
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1015
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5be0c42e4a021b300800000000000000
+      internalID: 266029745534930613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper4
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1012
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dcb5d56cf6176d80800000000000000
+      internalID: -8257606118464439082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper5
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1013
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cafc858f866dcb6c0800000000000000
+      internalID: -4126187412246704212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mouse
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1016
+        width: 2
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fae3ae5360cbdc5e0800000000000000
+      internalID: -1887645933938000209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papergroup2
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1003
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ae5ad6bd872d0320800000000000000
+      internalID: 2525718455636352679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trashbin1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1003
+        width: 10
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b4858d97d10a6e20800000000000000
+      internalID: 3344487698848384178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glassShatter1_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 987
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2eccd463e00d7bc0800000000000000
+      internalID: -3783867135271580113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glassShatter1_2
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 993
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6802f2a7f42ceae0800000000000000
+      internalID: -1518798328321406866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glassShatter1_3
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1003
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f001fcac62c26450800000000000000
+      internalID: 6080636218917323001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalTray1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1003
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86e2d9070c65ca190800000000000000
+      internalID: -7949883857692709272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalParts1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 993
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c2683785d3864bf0800000000000000
+      internalID: -340439768700001591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Docter_back
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 978
+        width: 16
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d030d68961971150800000000000000
+      internalID: 5843298923955892438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropAtlas_17
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 978
+        width: 16
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a726a2ec173f61940800000000000000
+      internalID: 5266664484372111994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden_door_L
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 938
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c306251ecf99ce50800000000000000
+      internalID: 6830166017350960066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden_door_R
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 938
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74d394dfaf2f82060800000000000000
+      internalID: 6929055186514689351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_door_L
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 895
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c88a1aa311922a940800000000000000
+      internalID: 5305848464970721420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_door_R
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 895
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c043ea6b66d45b580800000000000000
+      internalID: -8812051992333634548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Iron_door_L
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 853
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31b0c178089330aa0800000000000000
+      internalID: -6196045438146311405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueIron_door_L
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 853
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feb9c192789e9cba0800000000000000
+      internalID: -6068062256185435153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_Iron_door_L
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 810
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eaec658bff663c10800000000000000
+      internalID: 2032935407870339808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_Iron_door_R
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 810
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04ad968885275a000800000000000000
+      internalID: 46569095728585280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_Iron_door_2_L
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 766
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d586c55de93193ab0800000000000000
+      internalID: -5027965936077084579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_Iron_door_2_R
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 766
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0b14ec79e9dcde90800000000000000
+      internalID: -6999480123994662129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weaphon_line_L
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 945
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e9f26ee4e19a4870800000000000000
+      internalID: 8667900845265975776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weaphon_line_R
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 945
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c9327602c4459b20800000000000000
+      internalID: 3140491915283282371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assult_Rifle
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 913
+        width: 83
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d6509524f8278340800000000000000
+      internalID: 4865902951464457941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMG
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 913
+        width: 47
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a64bfb323a7eca120800000000000000
+      internalID: 2426568987111306346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shotgun
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 886
+        width: 97
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eee94432c1091e30800000000000000
+      internalID: 4474609638381842153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: namepad1
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 968
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19286f4fbe6ea3560800000000000000
+      internalID: 7294396447581438609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: namepad2
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 961
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03c78cc30e5674ef0800000000000000
+      internalID: -124018450962547664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: namepad3
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 951
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79c26eb93f9d5ece0800000000000000
+      internalID: -1376454470775985001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Passwordpad
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 928
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cfb826a39364a3d0800000000000000
+      internalID: -3196320349727178809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: namepad4
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 961
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d1cb778011d853c0800000000000000
+      internalID: -4370513569440349742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: namepad5
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 951
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6739ab88d7ddf1010800000000000000
+      internalID: 1161890760119456630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weaphon_line
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 946
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf149ba1b1ef14ce0800000000000000
+      internalID: -1422576614906445316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmmoBox_Red
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 912
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52da387246a727900800000000000000
+      internalID: 680741064264625445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmmoBox_Blue
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 896
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f61119bcb4c39aa0800000000000000
+      internalID: -6155359950847535375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amor_stand
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 915
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2930b62fd3ffa5a0800000000000000
+      internalID: -6507714796774737622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AWP
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 854
+        width: 112
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 214600c80b972f740800000000000000
+      internalID: 5184339920226903058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warnning_door
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 998
+        width: 48
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a06b78f2fe4596f0800000000000000
+      internalID: -678549363391504217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pliceLine1
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 980
+        width: 32
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6986d8d76011a9cf0800000000000000
+      internalID: -244864510164375402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pliceLine2
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 979
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57995a3ff897d0200800000000000000
+      internalID: 147908021948094837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pliceLine3
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 980
+        width: 32
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54958d174286c06e0800000000000000
+      internalID: -1870005239527483067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 60e151a6a1535324c90109de4c29be35
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
